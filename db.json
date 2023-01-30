@@ -1,9 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "recipes": [
+    {
+      "image": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?w=1060&amp;t=st=1674661164~exp=1674661764~hmac=c9387c82f7ad0db9b9e7eccd0ed912f5b6a6b15d6c2845ee8005bb25de6a29df\" width=\"941\" height=\"677\"",
+      "category": "chicken",
+      "ingredients": "Coriander, cumin, turmeric, fennel seeds, cinnamon, pepper, ground mustard, ground cloves, cayenne pepper and salt – these spices build incredible flavor in this dish. Together they create a homemade curry blend. Olive oil – used for sautéing. Fresh onion, garlic and ginger – these aromatics add a key depth of flavor. Low-sodium chicken broth – to create a sauce base to coat the chicken. Canned tomatoes – fresh tomatoes will work here too but canned are quicker and easier. Chicken breasts – be careful not to over-cook so the chicken doesn’t become dry. Cornstarch – used to thicken the sauce slightly. Heavy cream – this makes the sauce deliciously rich and creamy. Chopped cilantro – adds a nice prop of fresh flavor and color.",
+      "directions": "Mix spices together\nSaute onion, garlic and ginger in a skillet.\nAdd broth and tomatoes, simmer.\nBlend mixture in a blender as directed then return to skillet.\nSeason sauce then add chicken.\nSimmer chicken in sauce until cooked through.\nAdd cornstarch slurry during last minute to thicken sauce.\nStir in cream.\nServe over rice garnished with cilantro.\n",
+      "id": 2
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/black-forest-cake-table_140725-7641.jpg?w=740&amp;t=st=1674665324~exp=1674665924~hmac=50704afd1c7915a111bad3fad1e12e2e0bca3179bf468fa7493752d8383ce718",
+      "category": "dessert",
+      "ingredients": "Cake:  2 ⅛ cups all-purpose flour  2 cups white sugar  ¾ cup unsweetened cocoa powder  1 ½ teaspoons baking powder  ¾ teaspoon baking soda  ¾ teaspoon salt  3 eggs  1 cup milk  ½ cup vegetable oil  1 tablespoon vanilla extract  Topping:  2 (20 ounce) cans pitted sour cherries  1 cup white sugar  ¼ cup cornstarch  1 teaspoon vanilla extract  Frosting:  3 cups heavy whipping cream  ⅓ cup confectioners' sugar",
+      "directions": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9-inch round cake pans; line bottoms with parchment paper. Place a medium bowl in the refrigerator to chill.\n\nWhisk flour, sugar, cocoa, baking powder, baking soda, and salt together in a large bowl. Add eggs, milk, oil, and vanilla; beat until combined. Pour cake batter into the prepared pans.\n\nBake in the preheated oven until a toothpick inserted in the centers comes out clean, about 35 minutes. Cool layers in pans on wire racks for 10 minutes. Run a paring knife around edges to loosen and invert carefully onto racks to cool completely, 1 to 2 hours.\n\nWhile cake layers bake, drain cherries for topping, reserving 1/2 cup juice. Combine reserved juice, cherries, sugar, and cornstarch in a 2-quart saucepan. Cook, stirring constantly, over low heat until thickened. Stir in vanilla. Let cool at room temperature for 30 minutes. Transfer to the refrigerator to cool completely before assembling cake.\n\nCombine whipping cream and confectioners' sugar for frosting in the chilled medium bowl. Beat with an electric mixer at high speed until stiff peaks form.\n\nSplit each cake layer in half horizontally using a long serrated knife. Tear one layer into crumbs; set aside. Gently brush loose crumbs off top and sides of remaining layers using a pastry brush or your hands. Reserve 1 1/2 cups frosting for piping decorations on cake; set aside.\n\nTo assemble, place one cake layer on a cake plate. Spread with 1 cup frosting; top with 3/4 cup cherry topping. Top with second cake layer; repeat layers of frosting and cherry topping. Top with third cake layer and frost sides of cake.\n\nPat reserved cake crumbs onto sides of cake. Spoon reserved 1 1/2 cups frosting into a pastry bag fitted with a star decorator tip. Pipe around top and bottom edges of cake. Spoon remaining cherry topping on top of cake.\n\nStore covered in the refrigerator until ready to serve.",
+      "id": 3
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "favorite": [
+    {
+      "idMeal": "53013",
+      "strMeal": "Big Mac",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "id": 4
+    },
+    {
+      "idMeal": "53026",
+      "strMeal": "Tamiya",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+      "id": 5
+    }
+  ]
 }
